@@ -1,5 +1,5 @@
 # tic-tac-toe
-Playing around with canvas - this is a super rudimentary self-contained tic-tac-toe game
+Playing around with canvas - this is a rudimentary, self-contained tic-tac-toe game
 
 To get started:
 - clone this repo
